@@ -1,0 +1,56 @@
+[RO]
+# Termeni și Condiții de Utilizare
+Versiune: 1.0 | Data: 20.03.2026
+
+Această aplicație este destinată exclusiv pentru uz intern. 
+
+1. Utilizare autorizată:
+   Aplicația poate fi utilizată doar de angajații/colaboratorii autorizați.
+
+2. Scop:
+   Aplicația colectează, procesează și afișează date operaționale de la
+   Sistemul de monitorizare SMA, prin echipamente interne. Nu este destinată 
+   prelucrării de date personale.
+
+3. Responsabilitate:
+   Furnizorul nu răspunde pentru întreruperi de serviciu, pierderi de date
+   sau funcționare incorectă cauzate de configurații externe sau hardware
+   defect.
+
+4. Acces și securitate:
+   Accesul neautorizat este interzis. Credențialele de acces sunt personale
+   și nu pot fi partajate.
+
+5. Modificări:
+   Termenii pot fi actualizați fără notificare prealabilă. Continuarea
+   utilizării implică acceptarea versiunii curente.
+
+Contact: Reimond.Ilyes@eltrex.ro / Reimond Ilyes
+
+[EN]
+# Terms and Conditions of Use
+Version: 1.0 | Date: 03.20.2026
+
+This application is intended exclusively for internal use.
+
+1. Authorized use:
+   The application may be used only by authorized employees/collaborators.
+
+2. Purpose:
+   The application collects, processes, and displays operational data from the
+   SMA monitoring system, via internal equipment. It is not intended
+   for processing personal data.
+
+3. Liability:
+   The provider is not responsible for service interruptions, data loss,
+   or incorrect operation caused by external configurations or defective hardware.
+
+4. Access and security:
+   Unauthorized access is prohibited. Access credentials are personal
+   and cannot be shared.
+
+5. Changes:
+   Terms may be updated without prior notice. Continued
+   use implies acceptance of the current version.
+
+Contact: Reimond.Ilyes@eltrex.ro / Reimond Ilyes
